@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { JsonForms } from '@jsonforms/react';
 import logo from './logo.svg';
 import './App.css';
 
