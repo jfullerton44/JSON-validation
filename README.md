@@ -1,6 +1,6 @@
 This project is hosted with docker.<br>
-To start the app in terminal run "docker-compose up -d --build" .<br>
-To stop the app run "docker-compose stop" . 
+To start the app in terminal run "docker-compose up -d --build" <br>
+To stop the app run "docker-compose stop"
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
