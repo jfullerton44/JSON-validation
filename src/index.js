@@ -26,7 +26,7 @@
       }
       else {
         this.setState({
-          message: "Invalid JSON format"
+          message: "Invalid JSON format, please try again."
         });
       }
     }
