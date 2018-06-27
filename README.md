@@ -1,5 +1,5 @@
-This project is hosted with docker.
-To start the app in terminal run "docker-compose up -d --build" .
+This project is hosted with docker.<br>
+To start the app in terminal run "docker-compose up -d --build" .<br>
 To stop the app run "docker-compose stop" . 
 
 
