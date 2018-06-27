@@ -15,3 +15,6 @@ RUN npm install react-scripts@1.1.1 -g
 
 # start app
 CMD ["npm", "start"]
+
+#To start the app in terminal run "docker-compose up -d --build"
+#To stop the app run "docker-compose stop"
