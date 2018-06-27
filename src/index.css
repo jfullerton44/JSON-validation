@@ -1,8 +1,13 @@
+html {
+  height: 100%
+}
+
 body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
 }
+
 
 .wrapper {
   margin: 15px;
@@ -11,31 +16,11 @@ body {
   background: #f9f9f9;
   padding: 5px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, .05),
-              inset 0 1px 0 rgba(255,255,255,1);
+  inset 0 1px 0 rgba(255,255,255,1);
   border-radius: 2px;
   border: 1px solid #d3d3d3;
-}
+  text-align: center;
 
-#output {
-  background: rgba(255, 255, 255, .95);
-  bottom: 15px;
-  right: 15px;
-  position: fixed;
-  padding: 6px 12px 5px 12px;
-  font-family: 'Calibri', sans-serif;
-  font-size: 16px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, .05);
-  border-radius: 2px;
-  border: 1px solid #d3d3d3;
-  text-shadow: 0 1px 0 rgba(255, 255, 255, .015);
-}
-
-#invalid-text {
-  color: #A00;
-}
-
-#valid-text {
-  color: #0A0;
 }
 
 .form-input {
